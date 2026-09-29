@@ -1,0 +1,6 @@
+ultralytics
+gradio
+pandas
+numpy
+pillow
+pyyaml

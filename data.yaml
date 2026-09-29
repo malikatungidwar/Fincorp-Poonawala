@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/Road_Damage_Project/RDD2022_India_4class
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names:
+- Longitudinal Crack
+- Transverse Crack
+- Alligator Crack
+- Pothole
